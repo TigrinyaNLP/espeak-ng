@@ -22,15 +22,15 @@
 	ሎ	lo
 	ሏ	lua
 
-	ሐ	\X@
-	ሑ	\Xu
-	ሒ	\Xi
-	ሓ	\Xa
-	ሔ	\Xe
-	ሕ	\Xy
-	@) ሕ (_	x
-	ሖ	\Xo
-	ሗ	\Xwa
+	ሐ	H@
+	ሑ	Hu
+	ሒ	Hi
+	ሓ	Ha
+	ሔ	He
+	ሕ	Hy
+     @) ሕ (_	x
+	ሖ	Ho
+	ሗ	Hwa
 
 	መ	m@
 	ሙ	mu
@@ -104,21 +104,6 @@
 
 
 
-	ቐ	q@
-	ቑ	qu
-	ቒ	qi
-	ቓ	qa
-	ቔ	qe
-	ቕ	qy
-     @) ቕ (_	q
-	ቖ	qo
-
-	ቘ	qw@
-	ቚ	qwi
-	ቛ	qwa
-	ቜ	qwe
-	ቝ	qwy
-     @) ቝ (_	qw
 
 	በ	b@
 	ቡ	bu
@@ -204,8 +189,7 @@
 	ኢ	?i
 	ኣ	?a
 	ኤ	?e
-     _) እ 	?y
-	እ	?'y
+	እ	?y
 	ኦ	?o
 	ኧ	?@
 
@@ -253,14 +237,13 @@
      @) ው (_	w
 	ዎ	wo
 
-	ዐ	A@
-	ዑ	Au
-	ዒ	Ai
-	ዓ	Aa
-	ዔ	Ae
-	ዕ	A'y
-     @) ዕ (_	A'
-	ዖ	Ao
+	ዐ	?\@
+	ዑ	?\u
+	ዒ	?\i
+	ዓ	?\a
+	ዔ	?\e
+	ዕ	?\y
+	ዖ	?\o
 
 	ዘ	z@
 	ዙ	zu
@@ -332,7 +315,7 @@
      @) ግ (_	g
 	ጎ	go
 
-	ጐ	go
+	ጐ	gw@
 	ጒ	gwi
 	ጓ	gwa
 	ጔ	gwe
