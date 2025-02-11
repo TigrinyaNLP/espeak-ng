@@ -138,3 +138,29 @@ phoneme A       // Tigrinya Aamet (year)
   Vowelout f1=2  f2=2300 -300 450  f3=-100 10
   FMT(r/xr,25) addWav(h/h_,30)
 endphoneme
+
+
+phoneme n^
+  vcd pal nas pzd
+  ipa ɲ
+  Vowelout f1=3 f2=2500 300 500  f3=100 80  len=45 brk rate
+  lengthmod 4
+
+  IF KlattSynth THEN
+    VowelStart(klatt/n^@)
+    FMT(klatt/n^)
+  ENDIF
+
+  NextVowelStarts
+    VowelStart(n^/n^@)
+    VowelStart(n^/n^a)
+    VowelStart(n^/n^e)
+    VowelStart(n^/n^i)
+    VowelStart(n^/n^o)
+    VowelStart(n^/n^u)
+  EndSwitch
+
+
+    FMT(n^/n^_)
+
+endphoneme
